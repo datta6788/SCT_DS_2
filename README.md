@@ -16,5 +16,5 @@
 <h>BOXPLOT:</h>
 <img width="1651" height="923" alt="download" src="https://github.com/user-attachments/assets/5b7e4793-75a4-453a-bb42-48a043c7a0d6" />
 
-
+We explored the dataset in detail through various visualizations and analysis. From the EDA, we were able to understand how different musical and platform-related features influence the number of streams a song gets.
 
